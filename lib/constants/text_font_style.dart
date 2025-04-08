@@ -26,5 +26,14 @@ class TextFontStyle {
 static final headlineFFF9FFtext18gildaDisplayw600=
       GoogleFonts.gildaDisplay(color: AppColors.cFFF9FF, fontSize: 18.sp, fontWeight: FontWeight.w600);
 
+static final headline030303text26gildaDisplayw600=
+      GoogleFonts.gildaDisplay(color: AppColors.c030303, fontSize: 26.sp, fontWeight: FontWeight.w600);
+
+static final headline828282text14gildaDisplayw600=
+      GoogleFonts.gildaDisplay(color: AppColors. c828282, fontSize: 14.sp, fontWeight: FontWeight.w600);
+
+static final headlineFCFCFCtext18gildaDisplayw600=
+      GoogleFonts.gildaDisplay(color: AppColors. cFCFCFC, fontSize: 18.sp, fontWeight: FontWeight.w600);
+
 
 }

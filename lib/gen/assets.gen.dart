@@ -31,6 +31,9 @@ class $AssetsImagesGen {
   /// File path: assets/images/addicon.png
   AssetGenImage get addicon => const AssetGenImage('assets/images/addicon.png');
 
+  /// File path: assets/images/google.svg
+  String get google => 'assets/images/google.svg';
+
   /// File path: assets/images/menimage.png
   AssetGenImage get menimage => const AssetGenImage('assets/images/menimage.png');
 
@@ -41,7 +44,7 @@ class $AssetsImagesGen {
   AssetGenImage get signupscreen => const AssetGenImage('assets/images/signupscreen.png');
 
   /// List of all assets
-  List<AssetGenImage> get values => [addicon, menimage, signscreen, signupscreen];
+  List<dynamic> get values => [addicon, google, menimage, signscreen, signupscreen];
 }
 
 class $AssetsLottieGen {

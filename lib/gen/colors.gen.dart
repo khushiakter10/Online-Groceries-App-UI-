@@ -22,14 +22,29 @@ class AppColors {
   /// Color: #006850
   static const Color c006850 = Color(0xFF006850);
 
+  /// Color: #030303
+  static const Color c030303 = Color(0xFF030303);
+
   /// Color: #1C1F5E
   static const Color c1C1F5E = Color(0xFF1C1F5E);
+
+  /// Color: #5383EC
+  static const Color c5383EC = Color(0xFF5383EC);
+
+  /// Color: #828282
+  static const Color c828282 = Color(0xFF828282);
 
   /// Color: #C6BCB6
   static const Color cC6BCB6 = Color(0xFFC6BCB6);
 
+  /// Color: #E2E2E2
+  static const Color cE2E2E2 = Color(0xFFE2E2E2);
+
   /// Color: #F8F8F8
   static const Color cF8F8F8 = Color(0xFFF8F8F8);
+
+  /// Color: #FCFCFC
+  static const Color cFCFCFC = Color(0xFFFCFCFC);
 
   /// Color: #FF7A22
   static const Color cFF7A22 = Color(0xFFFF7A22);

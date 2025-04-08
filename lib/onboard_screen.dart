@@ -26,9 +26,8 @@ class _OnboardScreenState extends State<OnboardScreen> {
         Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            UIHelper.verticalSpace(200.h),
+            UIHelper.verticalSpace(300.h),
             SvgPicture.asset(Assets.icons.gajor),
-            UIHelper.verticalSpace(200.h),
             Padding(
               padding:  EdgeInsets.symmetric(horizontal: 64.w),
               child: Text('Welcome to our store',style: TextFontStyle.headlineFFFFFFText48gildaDisplayw600,textAlign: TextAlign.center,),

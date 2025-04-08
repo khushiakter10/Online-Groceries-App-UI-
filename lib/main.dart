@@ -6,6 +6,8 @@ import 'package:flutter_displaymode/flutter_displaymode.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
+import 'package:online_groceries_app_ui/features/auth/presentation/home.dart';
+import 'package:online_groceries_app_ui/features/auth/presentation/sign_in_screen.dart';
 import 'package:online_groceries_app_ui/features/home/presentation/home_screen.dart';
 import 'package:online_groceries_app_ui/onboard_screen.dart';
 import 'package:online_groceries_app_ui/welcome_screen.dart';
@@ -109,7 +111,7 @@ class UtillScreenMobile extends StatelessWidget {
             // },
             navigatorKey: NavigationService.navigatorKey,
             onGenerateRoute: RouteGenerator.generateRoute,
-            home:  OnboardScreen(),
+            home:  SignInScreen(),
           ),
         );
       },
