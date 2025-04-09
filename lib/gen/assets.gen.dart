@@ -12,17 +12,38 @@ import 'package:flutter/widgets.dart';
 class $AssetsIconsGen {
   const $AssetsIconsGen();
 
+  /// File path: assets/icons/arrwicon.svg
+  String get arrwicon => 'assets/icons/arrwicon.svg';
+
+  /// File path: assets/icons/chek.svg
+  String get chek => 'assets/icons/chek.svg';
+
+  /// File path: assets/icons/colamnarrw.svg
+  String get colamnarrw => 'assets/icons/colamnarrw.svg';
+
+  /// File path: assets/icons/dvvoid.svg
+  String get dvvoid => 'assets/icons/dvvoid.svg';
+
   /// File path: assets/icons/gajor.svg
   String get gajor => 'assets/icons/gajor.svg';
 
   /// File path: assets/icons/homeicon.svg
   String get homeicon => 'assets/icons/homeicon.svg';
 
+  /// File path: assets/icons/mapicon.svg
+  String get mapicon => 'assets/icons/mapicon.svg';
+
   /// File path: assets/icons/online groceriet.svg
   String get onlineGroceriet => 'assets/icons/online groceriet.svg';
 
+  /// File path: assets/icons/redgajor.svg
+  String get redgajor => 'assets/icons/redgajor.svg';
+
+  /// File path: assets/icons/signutre.svg
+  String get signutre => 'assets/icons/signutre.svg';
+
   /// List of all assets
-  List<String> get values => [gajor, homeicon, onlineGroceriet];
+  List<String> get values => [arrwicon, chek, colamnarrw, dvvoid, gajor, homeicon, mapicon, onlineGroceriet, redgajor, signutre];
 }
 
 class $AssetsImagesGen {
@@ -34,6 +55,9 @@ class $AssetsImagesGen {
   /// File path: assets/images/google.svg
   String get google => 'assets/images/google.svg';
 
+  /// File path: assets/images/location.png
+  AssetGenImage get location => const AssetGenImage('assets/images/location.png');
+
   /// File path: assets/images/menimage.png
   AssetGenImage get menimage => const AssetGenImage('assets/images/menimage.png');
 
@@ -43,8 +67,11 @@ class $AssetsImagesGen {
   /// File path: assets/images/signupscreen.png
   AssetGenImage get signupscreen => const AssetGenImage('assets/images/signupscreen.png');
 
+  /// File path: assets/images/varificationbacround.png
+  AssetGenImage get varificationbacround => const AssetGenImage('assets/images/varificationbacround.png');
+
   /// List of all assets
-  List<dynamic> get values => [addicon, google, menimage, signscreen, signupscreen];
+  List<dynamic> get values => [addicon, google, location, menimage, signscreen, signupscreen, varificationbacround];
 }
 
 class $AssetsLottieGen {

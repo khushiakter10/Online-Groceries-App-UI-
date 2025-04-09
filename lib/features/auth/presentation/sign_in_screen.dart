@@ -8,7 +8,6 @@ import 'package:online_groceries_app_ui/helpers/ui_helpers.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({super.key});
-
   @override
   State<SignInScreen> createState() => _SignInScreenState();
 }

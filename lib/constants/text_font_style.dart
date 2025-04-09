@@ -35,5 +35,19 @@ static final headline828282text14gildaDisplayw600=
 static final headlineFCFCFCtext18gildaDisplayw600=
       GoogleFonts.gildaDisplay(color: AppColors. cFCFCFC, fontSize: 18.sp, fontWeight: FontWeight.w600);
 
+static final headline181725text26gildaDisplayw600=
+      GoogleFonts.gildaDisplay(color: AppColors. c181725, fontSize: 26.sp, fontWeight: FontWeight.w600);
+static final headline181725text18gildaDisplayw400=
+      GoogleFonts.gildaDisplay(color: AppColors. c181725, fontSize: 18.sp, fontWeight: FontWeight.w400);
+
+static final headline7C7C7Ctext16gildaDisplayw600=
+      GoogleFonts.gildaDisplay(color: AppColors. c7C7C7C, fontSize: 16.sp, fontWeight: FontWeight.w600);
+
+static final headline7C7C7Ctext16gildaDisplayw400=
+      GoogleFonts.gildaDisplay(color: AppColors. c7C7C7C, fontSize: 16.sp, fontWeight: FontWeight.w400);
+
+static final headline53B175text14gildaDisplayw400=
+      GoogleFonts.gildaDisplay(color: AppColors. welcomBacroundColor, fontSize: 14.sp, fontWeight: FontWeight.w400);
+
 
 }
